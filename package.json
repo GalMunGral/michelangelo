@@ -1,8 +1,10 @@
 {
   "scripts": {
-    "build": "esbuild src/demo/index.tsx --bundle --outdir=dist && cp src/index.html dist"
+    "build": "vite build",
+    "dev": "vite"
   },
   "devDependencies": {
-    "esbuild": "^0.19.2"
+    "esbuild": "^0.19.2",
+    "vite": "^8.0.11"
   }
 }
