@@ -1,6 +1,6 @@
 # Michelangelo
 
-**Live demo:** https://galmungral.github.io/michelangelo/
+**Live demo:** https://hwenchi.github.io/michelangelo/
 
 ## Rhetorical Design
 
